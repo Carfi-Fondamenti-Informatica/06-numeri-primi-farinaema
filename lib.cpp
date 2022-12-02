@@ -1,4 +1,4 @@
-include <iostream>
+#include <iostream>
 using namespacce std;
 
 bool primo ( int a ){
@@ -19,4 +19,8 @@ bool primo ( int a ){
     } else {
         return false;
     }
+}
+
+int main (){
+    return 0;
 }
