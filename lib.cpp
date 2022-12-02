@@ -2,11 +2,6 @@
 #include "lib.h"
 using namespacce std;
 
-
-int main (){
-    return 0;
-}
-
 bool primo ( int a ){
 
     int i=1, n=a;
