@@ -1,7 +1,7 @@
 #include <iostream>
+#include "lib.h"
 using namespacce std;
 
-bool primo ( int a );
 
 int main (){
     return 0;
