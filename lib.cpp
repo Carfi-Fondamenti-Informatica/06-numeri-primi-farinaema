@@ -1,6 +1,12 @@
 #include <iostream>
 using namespacce std;
 
+bool primo ( int a );
+
+int main (){
+    return 0;
+}
+
 bool primo ( int a ){
 
     int i=1, n=a;
@@ -19,8 +25,4 @@ bool primo ( int a ){
     } else {
         return false;
     }
-}
-
-int main (){
-    return 0;
 }
