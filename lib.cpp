@@ -1,6 +1,6 @@
 #include <iostream>
 #include "lib.h"
-using namespacce std;
+using namespace std;
 
 bool primo ( int a ){
 
